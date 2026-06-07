@@ -1,0 +1,10 @@
+{
+	"SourceFiles": [
+		"C:\\Users\\USER\\OneDrive\\Documentos\\Unreal Projects\\CopiadeSeguridad\\auxiliomedesmayo\\Intermediate\\Source\\MyProject.Build.cs",
+		"C:\\Users\\USER\\OneDrive\\Documentos\\Unreal Projects\\CopiadeSeguridad\\auxiliomedesmayo\\Intermediate\\Source\\MyProject.Target.cs",
+		"C:\\Users\\USER\\OneDrive\\Documentos\\Unreal Projects\\CopiadeSeguridad\\auxiliomedesmayo\\Intermediate\\Source\\MyProjectClient.Target.cs",
+		"C:\\Users\\USER\\OneDrive\\Documentos\\Unreal Projects\\CopiadeSeguridad\\auxiliomedesmayo\\Intermediate\\Source\\MyProjectEditor.Target.cs",
+		"C:\\Users\\USER\\OneDrive\\Documentos\\Unreal Projects\\CopiadeSeguridad\\auxiliomedesmayo\\Intermediate\\Source\\MyProjectServer.Target.cs"
+	],
+	"EngineVersion": "5.6.1"
+}
