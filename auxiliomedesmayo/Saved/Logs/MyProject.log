@@ -16885,3 +16885,22 @@ FPackageName: Skipped package /Engine/EngineFonts/MountainsofChristmas-Bold_Font
 [2026.06.07-21.46.54:149][881]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
 [2026.06.07-21.46.54:168][881]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
 [2026.06.07-21.46.54:187][881]LogFileHelpers: InternalPromptForCheckoutAndSave took 144.211 ms (total: 2.28 sec)
+[2026.06.07-21.47.33:835][360]LogWorld: UWorld::CleanupWorld for World_14, bSessionEnded=true, bCleanupResources=true
+[2026.06.07-21.47.33:835][360]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.06.07-21.47.33:891][360]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2026.06.07-21.47.34:571][429]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2026.06.07-21.47.34:571][429]LogWorld: UWorld::CleanupWorld for World_24, bSessionEnded=true, bCleanupResources=true
+[2026.06.07-21.47.34:573][429]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.06.07-21.47.34:627][429]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2026.06.07-21.47.35:147][486]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2026.06.07-21.47.35:147][486]LogWorld: UWorld::CleanupWorld for World_26, bSessionEnded=true, bCleanupResources=true
+[2026.06.07-21.47.35:147][486]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.06.07-21.47.35:198][486]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2026.06.07-21.47.35:654][536]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2026.06.07-21.47.35:654][536]LogWorld: UWorld::CleanupWorld for World_28, bSessionEnded=true, bCleanupResources=true
+[2026.06.07-21.47.35:654][536]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.06.07-21.47.35:704][536]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2026.06.07-21.47.36:227][593]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2026.06.07-21.47.36:227][593]LogWorld: UWorld::CleanupWorld for World_31, bSessionEnded=true, bCleanupResources=true
+[2026.06.07-21.47.36:227][593]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.06.07-21.47.36:275][593]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
